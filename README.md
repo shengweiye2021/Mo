@@ -21,4 +21,4 @@ Will add more codes and tests in the next couple of weeks. But this should be en
 无法使用单机多线程多卡运行程序。
 
 
-[数据集](链接：https://pan.baidu.com/s/1Kwj-cC_DNlu2vwCSFJfqng) 提取码：fa8n
+[数据集](https://pan.baidu.com/s/1Kwj-cC_DNlu2vwCSFJfqng) 提取码：fa8n
